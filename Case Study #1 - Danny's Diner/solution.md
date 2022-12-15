@@ -1,6 +1,6 @@
 # Case Study #1 - Danny's Diner
 
-View sql script solutiion here: 
+View SQL script solution [here](https://github.com/valguerrero/8-week-sql-challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/solution.sql)
 
 ## Case Study Questions
 

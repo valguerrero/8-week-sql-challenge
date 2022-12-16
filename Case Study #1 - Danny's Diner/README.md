@@ -1,6 +1,6 @@
 # Case Study #1: Danny's Diner
 
-![ERD](images/Danny's Diner.png)
+![ERD](./../images/dannys-diner-erd.png)
 
 Full case study description: [Case Study #1 - Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
 

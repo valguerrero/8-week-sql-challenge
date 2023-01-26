@@ -12,6 +12,8 @@ He plans on using these insights to help him decide whether he should expand the
 
 ## Case Study Questions
 
+View my solution to the following questions [here](https://github.com/valguerrero/8-week-sql-challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/solution.md)
+
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
 3. What was the first item from the menu purchased by each customer?
